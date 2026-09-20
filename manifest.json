@@ -1,0 +1,353 @@
+{
+  "assets": [
+    {
+      "name": "estate",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-f36ce464-9bd0-4c27-9030-5a77ca1c85c3.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "sourceBytes": 185246,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/estate.webp",
+          "filename": "estate.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 174184
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/estate-640.webp",
+          "filename": "estate-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 59034
+        }
+      ]
+    },
+    {
+      "name": "master-bedroom",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-61aec91d-5697-46c7-bf05-da39f69f84f5.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 113166,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/master-bedroom.webp",
+          "filename": "master-bedroom.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 88834
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/master-bedroom-640.webp",
+          "filename": "master-bedroom-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 25880
+        }
+      ]
+    },
+    {
+      "name": "kids-bedroom",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-c9a61756-2972-4892-bc7c-d02dc82add2b.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 853,
+      "sourceBytes": 105982,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/kids-bedroom.webp",
+          "filename": "kids-bedroom.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 82118
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/kids-bedroom-640.webp",
+          "filename": "kids-bedroom-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 23226
+        }
+      ]
+    },
+    {
+      "name": "guest-bedroom",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-9a969579-37a4-4f00-b2fb-f1660b0262d9.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 111098,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/guest-bedroom.webp",
+          "filename": "guest-bedroom.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 82458
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/guest-bedroom-640.webp",
+          "filename": "guest-bedroom-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 24650
+        }
+      ]
+    },
+    {
+      "name": "study-room",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-d7fbaff5-d630-4146-912b-357270cde5d0.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 853,
+      "sourceBytes": 118984,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/study-room.webp",
+          "filename": "study-room.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 96104
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/study-room-640.webp",
+          "filename": "study-room-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 27742
+        }
+      ]
+    },
+    {
+      "name": "family-lounge",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-667fee25-e3be-4aa6-b4f3-8e599c51fc37.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 113347,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/family-lounge.webp",
+          "filename": "family-lounge.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 90746
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/family-lounge-640.webp",
+          "filename": "family-lounge-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 27076
+        }
+      ]
+    },
+    {
+      "name": "game-room",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-0ca61707-9dc2-40a6-a399-5040d0194d5e.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 721,
+      "sourceBytes": 90999,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/game-room.webp",
+          "filename": "game-room.webp",
+          "width": 1280,
+          "height": 721,
+          "bytes": 71682
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/game-room-640.webp",
+          "filename": "game-room-640.webp",
+          "width": 640,
+          "height": 361,
+          "bytes": 22814
+        }
+      ]
+    },
+    {
+      "name": "library",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-8814994b-1cc4-400e-82ee-2fc969e4f236.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "sourceBytes": 93155,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/library.webp",
+          "filename": "library.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 73302
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/library-640.webp",
+          "filename": "library-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 21950
+        }
+      ]
+    },
+    {
+      "name": "kitchen",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-3681fa31-5df8-4bde-b407-2f8a5d70b893.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 105022,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/kitchen.webp",
+          "filename": "kitchen.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 76266
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/kitchen-640.webp",
+          "filename": "kitchen-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 22150
+        }
+      ]
+    },
+    {
+      "name": "rooftop",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-9c57be12-0967-4505-b4dd-49b8161ac176.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 100366,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/rooftop.webp",
+          "filename": "rooftop.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 82926
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/rooftop-640.webp",
+          "filename": "rooftop-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 23874
+        }
+      ]
+    },
+    {
+      "name": "living-room",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-66be1816-08f8-4c1e-9acd-c6c9316d0134.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 853,
+      "sourceBytes": 137289,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/living-room.webp",
+          "filename": "living-room.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 123176
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/living-room-640.webp",
+          "filename": "living-room-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 33012
+        }
+      ]
+    },
+    {
+      "name": "dining-room",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-51ed9420-a960-4ef5-a1e3-52975e774d0c.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "sourceBytes": 124734,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/dining-room.webp",
+          "filename": "dining-room.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 114258
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/dining-room-640.webp",
+          "filename": "dining-room-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 32056
+        }
+      ]
+    },
+    {
+      "name": "pool-lounge",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-a03b454a-8c20-4518-9efb-479dd7ae68a2.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 853,
+      "sourceBytes": 128722,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/pool-lounge.webp",
+          "filename": "pool-lounge.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 117256
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/pool-lounge-640.webp",
+          "filename": "pool-lounge-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 32224
+        }
+      ]
+    },
+    {
+      "name": "spa-pool",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-d597cd61-a775-48a9-9dce-5dc051b81f93.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 720,
+      "sourceBytes": 106795,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/spa-pool.webp",
+          "filename": "spa-pool.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 88358
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/spa-pool-640.webp",
+          "filename": "spa-pool-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 24912
+        }
+      ]
+    },
+    {
+      "name": "prayer-room",
+      "source": "/var/folders/__/rsl3zs3n0rndx9ghr77zp6z40000gn/T/codex-clipboard-62a28e5f-92e7-4066-8544-c9f3e11f49b0.jpg",
+      "originalWidth": 1280,
+      "originalHeight": 854,
+      "sourceBytes": 130129,
+      "variants": [
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/prayer-room.webp",
+          "filename": "prayer-room.webp",
+          "width": 1280,
+          "height": 854,
+          "bytes": 125186
+        },
+        {
+          "path": "/Users/iiozodbek/Documents/Codex/2026-09-21/sh/work/optimized-assets/prayer-room-640.webp",
+          "filename": "prayer-room-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 28756
+        }
+      ]
+    }
+  ],
+  "totalBytes": 1916210,
+  "fullSizeBytes": 1486854,
+  "mobileBytes": 429356,
+  "sourceBytes": 1765034
+}
